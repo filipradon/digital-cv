@@ -30,9 +30,25 @@ the importance of transparency, and how it helps with building relationships wit
 - how to conduct recruitment sessions
 - how to organise yourself so you can meet project deadlines, fulfil company duties and spend time with your amazing colleagues in the kitchen  
 - lots of different technologies and protocols like Bluetooth or even Ultrasound. 
-
 - **_Technologies used:_** Kotlin, Java, RxJava, Jetpack libraries, Retrofit, Mockk, Espresso, Dagger.
 <br><br>
+
+**Android Engineer & Team Leader** @ [Comarch](https://www.comarch.pl/) _(Aug 2014 - May 2016)_ <br>
+My main focus was building mobile apps for banks.
+In almost 2 years I’ve learnt:  
+- how to lead a remote team of Android engineers 
+- building software according to rigorous documentation and complying with security requirements 
+- the reality of mobile banking 
+- **_Technologies used:_** Java, Sqlite, Retrofit, Mockito.
+<br><br>
+
+**Android Intern** @ [Netigen](https://netigen.eu/) _(Feb 2014 - Aug 2014)_ <br>
+My main focus was building mobile games.
+I’ve learnt:  
+- the challenges of the company whose revenue is based solely on the in-app ads 
+- **_Technologies used:_** Java, AndEngine
+<br><br>
+
 
 
 
