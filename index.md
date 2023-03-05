@@ -1,11 +1,11 @@
 # Filip Radoń
 
-_Android Engineer based in Cracow_ 
+_Android Engineer based in Cracow 🇵🇱_ 
 
 [Email](mailto:filip.radon@gmail.com) / [LinkedIn](https://www.linkedin.com/in/filipradon/) / [GitHub](https://github.com/filipradon/) / [Twitter](https://twitter.com/filipradon/)
 
 
-## Engineering Experience
+## 🧑‍💻 Engineering Experience
 
 **Senior Software Engineer (Android Focus)** @ [Ocado Technology](https://www.ocadogroup.com/about-us/ocado-technology/) _(Nov 2019 - Present)_ <br>
 My main focus is building mobile app for delivery drivers.
@@ -49,6 +49,17 @@ I’ve learnt:
 - **_Technologies used:_** Java, AndEngine
 <br><br>
 
+## 💬 Languages
 
+🇵🇱 **Polish**: Native <br>
+🇬🇧 **English**: Fluent <br>
+🇮🇹 **Italian**: Parlo un po 🤌
+<br><br>
 
+## 👨‍🎓 Education
 
+**Master of Science (M.Sc.)** in Applied Informatics <br>
+[University of Economics](https://uek.krakow.pl/) - Cracow, Poland _(2014-2016)_
+
+**Bachelor of Engineering (B.E.)** in Biomedical Engineering<br>
+[AGH University of Science](https://www.agh.edu.pl/en/) - Cracow, Poland _(2010-2014)_
